@@ -13,9 +13,8 @@
 
 ## 联系作者
 扫描以下二维码，联系作者，获取更多资讯
-<p style="width: 700px; height:140px; text-align:center;">
-    <img src="./pages/images/contact/wechat-QR-code.jpg" width= "130px" height="130px" alt="QR Code">
-</p>
+<br><br>
+![alt="联系作者"](./pages/images/contact/wechat-QR-code.jpg)
 <br><br>
 
 [footer](../footer.md ':include')
