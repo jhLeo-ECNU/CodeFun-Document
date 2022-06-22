@@ -22,16 +22,16 @@ Code Fun 目前所发布的最新版本是1.2.1版本，较前一个版本增加
 [CodeFun-Info-Table](tables/CodeFun-Info.md ':include')
 
 ## 精彩实例
-在我们的网站上提供了一些相关的 [精彩案例](README) ，都是由一些热爱创造的试用者发布。这些案例囊括了动画、<br>
+在我们的网站上提供了一些相关的 [精彩案例](http://thateven.club/projects.html) ，都是由一些热爱创造的试用者发布。这些案例囊括了动画、<br>
 音乐、游戏、艺术、硬件、人工智能等各种类型，很好地展示了工具的效用。在决定是否下载使用之前，<br>
 花两分钟时间了解一下这些精彩案例也许会让您对该软件有更加直观的认知。<br>
-[>> 精彩案例戳这里](README)
+[>> 精彩案例戳这里](http://thateven.club/projects.html)
 
 ## 问题或建议
 如果您在使用过程中遇到了任何问题，您可以尝试在 [常见问题](pages/Q&A) 中找到解决方案。若仍未能解决您的问题，<br>
 请联系我们的 [技术支持团队](pages/contact) 为您解决。您有任何意见与建议，也都可以向我们留言。
 
-[>> CodeFun.com](README)
+[>> 访问我们的网站](http://thateven.club)
 <br><br>
 
 [footer](./footer.md ':include')
