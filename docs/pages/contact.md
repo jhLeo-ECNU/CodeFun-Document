@@ -14,7 +14,7 @@
 ## 联系作者
 扫描以下二维码，联系作者，获取更多资讯
 <br><br>
-![alt="联系作者"](./pages/images/contact/wechat-QR-code.jpg)
+![alt="联系作者"](./images/contact/wechat-QR-code.jpg)
 <br><br>
 
 [footer](../footer.md ':include')
